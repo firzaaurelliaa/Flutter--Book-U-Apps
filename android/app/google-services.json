@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531065411319",
+    "project_id": "beautips-9d872",
+    "storage_bucket": "beautips-9d872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531065411319:android:a6df3a7477c5c42cf1e5f2",
+        "android_client_info": {
+          "package_name": "com.example.beautips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531065411319-vn1u38d5v59kt87c38llk2f90t1g2edt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZgRfwwW_DejGudohcTppGUUPSTLsO2Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531065411319-vn1u38d5v59kt87c38llk2f90t1g2edt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
